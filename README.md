@@ -1,1 +1,1 @@
-# Myntra_Functional_Clone
+# Myntra-Functional-Clone
